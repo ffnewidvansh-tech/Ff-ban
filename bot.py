@@ -53,7 +53,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 💡 Example:
 Send: xyz123abc456def789ghi012
 
-🤖 Made with ❤️ by @GODJEXARTG
+🤖 Made with ❤️ by @iflexzyan
     """
     
     await update.message.reply_text(welcome_msg)
@@ -82,7 +82,7 @@ async def about(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     about_msg = """
 🤖 Free Fire Ban Bot
 
-👨‍💻 Developer: @GODJEXARTG
+👨‍💻 Developer: @iflexzyan
 🔗 Channel: https://t.me/+4ssy7cgJ7WQxMDA5
 
 ⚡ Features:
